@@ -5,7 +5,7 @@ function setup() {
 }
 function displayQR() {
     let QRCode = document.getElementById("QR1");
-    let QRText = "https://worldofwarcraft.com/en-us/";
+    let QRText = "https://yonatanrozin.github.io/";
     let QR = qrcode(0, 'L');
     QR.addData(QRText);
     QR.make();
