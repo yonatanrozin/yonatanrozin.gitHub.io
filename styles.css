@@ -1,0 +1,8 @@
+@media screen and (max-width: 600px) {
+  body {
+    font-size: xx-large;
+    color: red;
+    font-family: cursive;
+    background-color: aqua;
+  }
+}
